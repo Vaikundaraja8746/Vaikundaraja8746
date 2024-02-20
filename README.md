@@ -25,6 +25,6 @@
 ![Vaikundaraja8746's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaikundaraja8746&theme=dark&hide_border=true)<br>
 ![Vaikundaraja8746's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaikundaraja8746&theme=dark&show_icons=true&hide_border=true&layout=compact)<br>
 ---
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vaikundaraja_AK?theme=dark&font=Hepta%20Slab&ext=heatmap)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaikundaraja8746&bg_color=050505&color=fffaff&line=342acb&point=d3cfcf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
